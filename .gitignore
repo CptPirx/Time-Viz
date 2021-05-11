@@ -1,0 +1,6 @@
+Data/Betas
+Data/Precomputed
+.idea/
+*.pyc
+*~
+*.swp
